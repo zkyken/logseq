@@ -3,6 +3,6 @@ title: Clinical Trials
 tags:
 ---
 
-## [[Prostate Cancer]]
+## [[prostate cancer]]
 ## [[Bladder Cancer]]
 ## [[Renal Cancer]]
