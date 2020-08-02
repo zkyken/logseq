@@ -12,3 +12,4 @@ tags:
 ### markdown syntax 与 [[]] 不能嵌套
 ### 崩溃，内容丢失！！
 ### 通过清空页面缓存,同步github恢复.
+### open in sidebar 后, 不是sidebar固定而是主页变固定了
