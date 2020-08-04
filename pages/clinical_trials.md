@@ -5,4 +5,4 @@ tags:
 
 ## [[prostate cancer]]
 ## [[bladder cancer]]
-## [[Renal Cancer]]
+## [[renal cancer]]
