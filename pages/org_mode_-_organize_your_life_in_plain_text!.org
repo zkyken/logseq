@@ -26,7 +26,7 @@ Dominik that operates on plain text files.  Org-mode is part of Emacs.
 
 This document assumes you've had some exposure to org-mode already so
 concepts like the agenda, capture mode, etc.  won't be completely
-foreign to you.  More information about org-mode can be found in the
+foreign to you.  More information about [[org-mode]] can be found in the
 [[http://orgmode.org/index.html#sec-4.1][Org-Mode Manual]] and on the [[http://orgmode.org/worg/][Worg Site]].
 
 I have been using org-mode as my personal information manager for
