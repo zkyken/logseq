@@ -12,9 +12,9 @@ tags:
 ## I still change my workflow and try new things regularly. This document describes mature workflows in my current org-mode setup. I tend to document changes to my workflow 30 days after implementing them (assuming they are still around at that point) so that the new workflow has a chance to mature.
 ## Some of the customized Emacs settings described in this document are set at their default values. This explicitly shows the setting for important org-mode variables used in my workflow and to keep my workflow behaviour stable in the event that the default value changes in the future.
 ## This document is available as an [org file](http://doc.norang.ca/org-mode.org) which you can load in Emacs and tangle with `C-c C-v C-t` which will create org-mode.el in the same directory as the org-mode.org file. This will extract all of the elisp examples in this document into a file you can include in your .emacs file.
-
+---
 2 License
----------
+---
 
 Copyright (C)  2013  Bernt Hansen.
 Permission is granted to copy, distribute and/or modify this document
