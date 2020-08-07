@@ -12,5 +12,5 @@ tags:
 * the detection rate among patients with persisting detectable PSA after radical prostatectomy was 64.5%.
 ## The EAU guidelines state that
 
-* in the setting of PSA recurrence after radical prostatectomy a PSMA PET-CT may be obtained if the PSA level is > 0.2 ng/mL and if the results will influence subsequent treatment decisions (level of evidence 2b, strength rating: weak).
+* in the setting of PSA recurrence after radical prostatectomy a [[PSMA]] PET-CT may be obtained if the PSA level is > 0.2 ng/mL and if the results will influence subsequent treatment decisions (level of evidence 2b, strength rating: weak).
 * In cases where PSMA PET-CT is not available, and the PSA level is >= 1 ng/mL, clinicians should perform a fluciclovine PET-CT or choline PET-CT if the results will influence subsequent treatment decisions (strength rating: weak).
