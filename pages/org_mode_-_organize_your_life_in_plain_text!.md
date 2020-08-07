@@ -11,7 +11,7 @@ tags:
 ## I have been using org-mode as my personal information manager for years now. I started small with just the default `TODO` and `DONE` keywords. I added small changes to my workflow and over time it evolved into what is described by this document.
 ## I still change my workflow and try new things regularly. This document describes mature workflows in my current org-mode setup. I tend to document changes to my workflow 30 days after implementing them (assuming they are still around at that point) so that the new workflow has a chance to mature.
 ## Some of the customized Emacs settings described in this document are set at their default values. This explicitly shows the setting for important org-mode variables used in my workflow and to keep my workflow behaviour stable in the event that the default value changes in the future.
-## This document is available as an [org file](http://doc.norang.ca/org-mode.org) which you can load in Emacs and tangle with `C-c C-v C-t` which will create org-mode.el in the same directory as the org-mode.org file. This will extract all of the elisp examples in this document into a file you can include in your .emacs file.
+## This document is available as an [org file](http://doc.norang.ca/org-mode.org) which you can load in Emacs and tangle with `C-c C-v C-t` which will create org-mode.el in the same directory as the org-mode.org file. This will extract all of the elisp examples in this document into a file you can include in your .emacs file
 ---
 2 License
 ---
@@ -35,7 +35,7 @@ GNU General Public License for more details.
 This document [http://doc.norang.ca/org-mode.html](http://doc.norang.ca/org-mode.html) (either in its [HTML format](http://doc.norang.ca/org-mode.html) or in its [Org format](http://doc.norang.ca/org-mode.org)) is licensed under the GNU Free Documentation License version 1.3 or later ([http://www.gnu.org/copyleft/fdl.html](http://www.gnu.org/copyleft/fdl.html)).
 
 The code examples and CSS stylesheets are licensed under the GNU General Public License v3 or later ([http://www.gnu.org/licenses/gpl.html](http://www.gnu.org/licenses/gpl.html)).
-
+---
 3 Change History - What's new
 -----------------------------
 
@@ -44,7 +44,7 @@ This is version `2015.06-5-gf5bb` of this document. This document is created usi
 The source for this document can be found as a [plain text org file](http://doc.norang.ca/org-mode.org). I try to update this document about once a month.
 
 The change history for this document can be found at [git://git.norang.ca/org-mode-doc.git](http://git.norang.ca/?p=org-mode-doc.git;a=summary).
-
+---
 4 Getting Started
 -----------------
 
